@@ -1620,6 +1620,7 @@ GameObject:
   - component: {fileID: 531693133}
   - component: {fileID: 531693132}
   - component: {fileID: 531693134}
+  - component: {fileID: 531693135}
   m_Layer: 0
   m_Name: CM vcam3
   m_TagString: Untagged
@@ -1696,6 +1697,21 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &531693135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 531693131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FocusTracksTarget: 0
+  m_FocusOffset: 0
+  m_Profile: {fileID: 11400000, guid: 79763e3c40b680e4ab438d11b9da36eb, type: 2}
 --- !u!1001 &536598203
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2429,7 +2445,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.008670196, y: 0.8633936, z: -0.0054476284, w: 0.31860912}
+  m_LocalRotation: {x: 0.0053425287, y: 0.53201854, z: -0.0033567997, w: 0.8467092}
   m_LocalPosition: {x: -5.022368, y: 0.8530126, z: 6.7130466}
   m_LocalScale: {x: 1, y: 1, z: 1.0000001}
   m_Children: []
@@ -5102,6 +5118,7 @@ GameObject:
   - component: {fileID: 2111983586}
   - component: {fileID: 2111983585}
   - component: {fileID: 2111983587}
+  - component: {fileID: 2111983588}
   m_Layer: 0
   m_Name: CM vcam4
   m_TagString: Untagged
@@ -5178,6 +5195,21 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2111983588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111983584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FocusTracksTarget: 0
+  m_FocusOffset: 0
+  m_Profile: {fileID: 11400000, guid: 3071941da8d1b6a45955bf7caecf5bd4, type: 2}
 --- !u!1 &2144965264
 GameObject:
   m_ObjectHideFlags: 0
