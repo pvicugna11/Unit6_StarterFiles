@@ -1540,10 +1540,19 @@ MonoBehaviour:
       m_Root: 5
       m_Leaf: /Users/megano/Desktop
       m_ForceAssetFolder: 0
+      m_AbsolutePath: 
     m_FileName: movie_<Scene>_<Date>_<Take>
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
+  containerFormatSelected: 0
+  encoderSelected: 0
+  encoderPresetSelected: 0
+  encoderPresetSelectedName: 
+  encoderPresetSelectedOptions: 
+  encoderPresetSelectedSuffixes: 
+  encoderColorDefinitionSelected: 0
+  encoderCustomOptions: 
   m_ImageInputSelector:
     m_Selected: gameViewInputSettings
     gameViewInputSettings:
@@ -4904,10 +4913,19 @@ MonoBehaviour:
       m_Root: 5
       m_Leaf: /Users/megano/Desktop
       m_ForceAssetFolder: 0
+      m_AbsolutePath: 
     m_FileName: movie
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
+  containerFormatSelected: 0
+  encoderSelected: 0
+  encoderPresetSelected: 0
+  encoderPresetSelectedName: 
+  encoderPresetSelectedOptions: 
+  encoderPresetSelectedSuffixes: 
+  encoderColorDefinitionSelected: 0
+  encoderCustomOptions: 
   m_ImageInputSelector:
     m_Selected: gameViewInputSettings
     gameViewInputSettings:
@@ -5978,7 +5996,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6fde0a8ac3e6b482c95fa602e65ab045, type: 3}
-  m_Name: MovieRecorderSettings
+  m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
   take: 1
@@ -5988,10 +6006,19 @@ MonoBehaviour:
       m_Root: 0
       m_Leaf: /Recordings
       m_ForceAssetFolder: 0
+      m_AbsolutePath: 
     m_FileName: Rendered_Movie_take-<Take>
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
+  containerFormatSelected: 0
+  encoderSelected: 0
+  encoderPresetSelected: 0
+  encoderPresetSelectedName: 
+  encoderPresetSelectedOptions: 
+  encoderPresetSelectedSuffixes: 
+  encoderColorDefinitionSelected: 0
+  encoderCustomOptions: 
   m_ImageInputSelector:
     m_Selected: gameViewInputSettings
     gameViewInputSettings:
